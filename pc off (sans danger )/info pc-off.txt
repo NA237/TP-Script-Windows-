@@ -1,0 +1,6 @@
+ce programme  en batch sur windows permet de:
+
+	1) fermer maintenant votre session de travail
+	2) planifier l'heure d'arret de votre ordinateur
+	3) annuler l'heure d'arret planifier
+	4) quitter le programme
